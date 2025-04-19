@@ -1,4 +1,0 @@
-req,clients,ratio
-10000,100,1:10
-remote
-memBw,4

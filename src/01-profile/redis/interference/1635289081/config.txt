@@ -1,4 +1,0 @@
-req,clients,ratio
-5000,100,1:10
-local
-cpu,16

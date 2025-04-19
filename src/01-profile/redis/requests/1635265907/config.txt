@@ -1,3 +1,0 @@
-req,clients,ratio
-10000,10,1:10
-local
