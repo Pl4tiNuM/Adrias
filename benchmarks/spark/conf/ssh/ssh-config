@@ -1,0 +1,7 @@
+Host 0.0.0.0
+    Hostname loopback
+    StrictHostKeyChecking no
+Host localhost
+    Hostname localhost
+    StrictHostKeyChecking no
+
